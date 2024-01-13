@@ -512,14 +512,138 @@ footer {
     justify-content: space-evenly;
     flex-flow: nowrap;
     margin-top: 1.5vw;
+    margin-bottom: 1.5vw; 
     flex-direction: column;  
     background: rgb(0,0,0);
 background: radial-gradient(circle, rgba(0,0,0,1) 0%, rgba(28,27,27,1) 32%, rgba(54,53,53,1) 61%, rgba(76,75,75,1) 74%, rgba(89,87,87,1) 83%, rgba(128,126,126,1) 97%);
   }
 
   .petsTitleCont{
-    margin-top: 2%;
-    margin-bottom: 2%;
+    margin-top: .5%;
+    margin-bottom: 1%;
+  }
+
+  .petsTitle{
+    color: #FFCE51;
+    font-family: Verdana;
+    font-size: 3.5vw;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-right: 3%;
+    margin-left: 3%;
+    margin-top: 3%;
+    text-shadow: 4px 4px 4px rgba(0, 0, 0, .5);
+    text-align: center;
+    text-wrap: nowrap;
+  }
+
+  .petsImgCont{
+    width: 90%;
+    height:auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-flow: nowrap;
+    flex-direction: row; 
+  }
+
+  .petsImg1Cont{
+    height:80%;
+    width:20%;
+  }
+
+  .petsImg1{
+    height:100%;
+    width:100%;
+  }
+
+  .pets1{
+    color: white;
+    font-family: Verdana;
+    font-size: 2vw;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: .5vw;
+    margin-bottom: 1.5vw; 
+    text-shadow: 4px 4px 4px rgba(0, 0, 0, .5);
+    text-align: center;
+    text-wrap: nowrap;
+  }
+
+  .petsImg2Cont{
+    height:80%;
+    width:20%;
+  }
+
+  .petsImg2{
+    height:100%;
+    width:100%;
+  }
+
+  .pets2{
+    color: white;
+    font-family: Verdana;
+    font-size: 2vw;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: .5vw;
+    margin-bottom: 1.5vw; 
+    text-shadow: 4px 4px 4px rgba(0, 0, 0, .5);
+    text-align: center;
+    text-wrap: nowrap;
+  }
+
+  .petsImg3Cont{
+    height:80%;
+    width:20%;
+  }
+
+  .petsImg3{
+    height:100%;
+    width:100%;
+  }
+
+  .pets3{
+    color: white;
+    font-family: Verdana;
+    font-size: 2vw;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: .5vw;
+    margin-bottom: 1.5vw; 
+    text-shadow: 4px 4px 4px rgba(0, 0, 0, .5);
+    text-align: center;
+    text-wrap: nowrap;
+  }
+
+
+
+  .petsImg4Cont{
+    height:80%;
+    width:20%;
+  }
+
+  .petsImg4{
+    height:100%;
+    width:100%;
+  }
+
+  .pets4{
+    color: white;
+    font-family: Verdana;
+    font-size: 2vw;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: .5vw;
+    margin-bottom: 1.5vw; 
+    text-shadow: 4px 4px 4px rgba(0, 0, 0, .5);
+    text-align: center;
+    text-wrap: nowrap;
   }
 
   
